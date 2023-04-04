@@ -4,9 +4,10 @@ Using GPG, SSH, or S/MIME, you can sign tags and commits locally. These tags or 
 
 Recently, the number of teams and organization that require signed commits in their repositories has been increased.
 
-The signed commit will looks like:
-![Verified Commit](https://docs.github.com/assets/cb-32676/mw-1000/images/help/commits/verified-commit.webp)
-![GPG Verified With Expired Key](https://docs.github.com/assets/cb-111538/mw-1000/images/help/settings/gpg-verified-with-expired-key.webp)
+The signed commit will looks like:<br/>
+<img width=800 src="https://docs.github.com/assets/cb-32676/mw-1000/images/help/commits/verified-commit.webp">
+<br/>
+<img width=800 src="https://docs.github.com/assets/cb-111538/mw-1000/images/help/settings/gpg-verified-with-expired-key.webp">
 
 For most individual users, GPG or SSH will be the best choice for signing commits.
 Generating a GPG signing key is more involved than generating an SSH key, but GPG has features that SSH does not. A GPG key can expire or be revoked when no longer used. GitHub shows commits that were signed with such a key as "Verified" unless the key was marked as compromised. SSH keys don't have this capability.
@@ -50,14 +51,14 @@ To sign commits using GPG and have those commits verified on GitHub, follow thes
 ## Adding a GPG key to your GitHub account
 
 1. In the upper-right corner of any page, click your profile photo, then click **Settings**.
-   ![](https://docs.github.com/assets/cb-139735/mw-1000/images/help/settings/userbar-account-settings.webp)
+   <br/><img height=800 src="https://docs.github.com/assets/cb-139735/mw-1000/images/help/settings/userbar-account-settings.webp">
 2. In the "Access" section of the sidebar, click **🔑SSH and GPG keys**.
 3. Click **New GPG key**.
-   ![](https://docs.github.com/assets/cb-6700/mw-1000/images/help/settings/gpg-add-gpg-key.webp)
+   <br/><img width=800 src="https://docs.github.com/assets/cb-6700/mw-1000/images/help/settings/gpg-add-gpg-key.webp">
 4. In the "Key" field, paste the GPG key you copied when you generated your GPG key.
-   ![](https://docs.github.com/assets/cb-12077/mw-1000/images/help/settings/gpg-key-paste.webp)
+   <br/><img width=800 src="https://docs.github.com/assets/cb-12077/mw-1000/images/help/settings/gpg-key-paste.webp">
 5. Click **Add GPG key**.
-   ![](https://docs.github.com/assets/cb-2898/mw-1000/images/help/settings/gpg-add-key.webp)
+   <br/>![](https://docs.github.com/assets/cb-2898/mw-1000/images/help/settings/gpg-add-key.webp)
 6. To confirm the action, enter your GitHub password.
 
 ## Telling Git about your GPG key
@@ -85,8 +86,8 @@ To sign commits using GPG and have those commits verified on GitHub, follow thes
    ```
 3. On GitHub, navigate to your pull request.
 4. On the pull request, click **Commits** tab.
-   ![](https://docs.github.com/assets/cb-167340/mw-1000/images/help/pull_requests/pull-request-tabs-commits.webp)
+   <br/><img width=800 src="https://docs.github.com/assets/cb-167340/mw-1000/images/help/pull_requests/pull-request-tabs-commits.webp">
 5. To view more detailed information about the verified signature, click **Verified**.
-   ![](https://docs.github.com/assets/cb-32676/mw-1000/images/help/commits/verified-commit.webp)
+   <br/><img width=800 src="https://docs.github.com/assets/cb-32676/mw-1000/images/help/commits/verified-commit.webp">
 
 
