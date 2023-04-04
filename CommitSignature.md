@@ -2,9 +2,9 @@
 
 Using GPG, SSH, or S/MIME, you can sign tags and commits locally. These tags or commits are marked as verified on GitHub so other people can be confident that the changes come from a trusted source.
 
-Recently, the number of teams and organization that require signed commits in their repositories has been increased.
+Recently, the number of teams and organizations that require members to sign commits in their repositories has increased.
 
-The signed commit will looks like:<br/>
+The signed commit will look like this:<br/>
 <img width=800 src="https://docs.github.com/assets/cb-32676/mw-1000/images/help/commits/verified-commit.webp">
 <br/>
 <img width=800 src="https://docs.github.com/assets/cb-111538/mw-1000/images/help/settings/gpg-verified-with-expired-key.webp">
