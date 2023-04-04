@@ -90,4 +90,5 @@ To sign commits using GPG and have those commits verified on GitHub, follow thes
 5. To view more detailed information about the verified signature, click **Verified**.
    <br/><img width=800 src="https://docs.github.com/assets/cb-32676/mw-1000/images/help/commits/verified-commit.webp">
 
-
+Reference:
+https://docs.github.com/en/authentication/managing-commit-signature-verification
