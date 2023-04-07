@@ -25,8 +25,6 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
 
 > Overall, `✨bytedriver✨` represents a **_highly skilled and experienced_** individual developer who is ❤️‍🔥**passionate** about helping clients achieve the best possible performance from their applications.
 
-<video src="https://user-images.githubusercontent.com/123972077/224437816-139faf7b-808e-42a8-b596-eb31d592d4e8.mp4" width=900>
-
 ### 👟 Coding Style
 
 **_Readability_** 📖 is always preferred over brevity; neither stylistic technique is strictly necessary, but they lead to neater code.
