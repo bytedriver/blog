@@ -1,6 +1,6 @@
 # Top 10% Certified Swift Skill
 
-I am so thrilled to announce that I have passed the Swift assessment and got a certification on [TestDome](https://www.testdome.com/).
+I'm happy to share that I've obtained the new **Swift** certification from [TestDome](https://www.testdome.com/).
 <br/>
 Soon, I made [my Github profile](https://github.com/bytedriver) decorated with it.
 
