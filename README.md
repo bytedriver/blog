@@ -18,3 +18,5 @@
 [Sign Github commits with your GPG key](CommitSignature.md)
 
 [Top 10% Certified Swift Skill](SwiftCertification.md)
+
+["Sic Parvis Magna" - Greatness From Small Beginnings](SoGreatAndSmall.md)
