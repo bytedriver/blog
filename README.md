@@ -20,3 +20,5 @@
 [Top 10% Certified Swift Skill](SwiftCertification.md)
 
 ["Sic Parvis Magna" - Greatness From Small Beginnings](SoGreatAndSmall.md)
+
+[SwiftUI saved my cooking](Recipes.md)
