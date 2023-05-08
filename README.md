@@ -22,3 +22,5 @@
 ["Sic Parvis Magna" - Greatness From Small Beginnings](SoGreatAndSmall.md)
 
 [SwiftUI saved my cooking](Recipes.md)
+
+[@ObservedObject vs @EnvironmentObject](ObservedObjectAndEnvironmentObject.md)
